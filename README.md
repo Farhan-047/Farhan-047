@@ -35,7 +35,5 @@ Checkout some of the exciting projects I've been working on!
 
 [<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
-[Linkedin](www.linkedin.com/in/farhaann)
-
 
 [linkedin]: www.linkedin.com/in/farhaann
