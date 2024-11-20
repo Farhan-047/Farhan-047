@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Checkout some of the exciting projects I've been working on!
 
-<h2>📶🖥️ Cloud/Network Projects:</h2>
+<h2>Cloud/Network Projects:</h2>
 
 - <b>Networks in Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sfariasjr/Configuring-On-premises-Active-Directory-within-Azure-VMs)
@@ -29,22 +29,13 @@ Checkout some of the exciting projects I've been working on!
   - [osTicket: Post-Installation Configuration](https://github.com/sfariasjr/osTicketPostConfiguration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sfariasjr/osTicket-Ticket-Lifecycle-Examples)
 
-<h2> 🔐🪪 Cloud/Cybersecurity Projects:</h2>
-
-- <b>Security in Azure</b>
-  - [Azure SOC Overview](https://github.com/sfariasjr/Azure-SOC-Overview/blob/main/README.md)
-  - [Azure SOC Setup](https://github.com/sfariasjr/Azure-SOC-Setup)
-  - [Logging and Monitoring]()
-  - [Microsoft Sentinel SIEM]()
-  - [Secure Azure Configuration]()
-  - [Azure SOC Detailed Summary]()
-
 ---
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 
 [<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
+[Linkedin](www.linkedin.com/in/farhaann)
 
 
 [linkedin]: www.linkedin.com/in/farhaann
