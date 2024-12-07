@@ -19,15 +19,10 @@ Checkout some of the exciting projects I've been working on!
 
 <h2>Cloud/Network Projects:</h2>
 
-- <b>Networks in Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sfariasjr/Configuring-On-premises-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sfariasjr/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-  - [Network File Shares and Permissions](https://github.com/sfariasjr/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/sfariasjr/Building-Intuition-for-DNS)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/sfariasjr/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/sfariasjr/osTicketPostConfiguration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/sfariasjr/osTicket-Ticket-Lifecycle-Examples)
+  - [osTicket: Prerequisites and Installation](https://github.com/Farhan-047/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/Farhan-047/osTicketPostConfiguration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Farhan-047/osTicket-Ticket-Lifecycle-Examples)
 
 ---
 <h2>Connect with me:</h2>
